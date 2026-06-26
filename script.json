@@ -1,13 +1,37 @@
 {
-  "name": "规则搜索",
-  "icon": "magnifyingglass",
-  "color": "rgba(10, 132, 255, 1)",
-  "version": "1.0.0",
-  "runInApp": true,
-  "localizedNames": {
-    "zh": "规则搜索"
+  "name" : "规则搜索",
+  "author" : {
+    "email" : "ipsikent@gmail.com",
+    "homepage" : null,
+    "name" : "psikent"
   },
-  "localizedDescriptions": {
-    "zh": "搜索 blackmatrix7/ios_rule_script 仓库中的代理规则"
-  }
+  "intentInputTypes" : [
+
+  ],
+  "contributors" : [
+
+  ],
+  "description" : "",
+  "version" : "1.0.0",
+  "localizedNames" : {
+    "zh" : "规则搜索"
+  },
+  "localizedDescriptions" : {
+    "ru" : "",
+    "it" : "",
+    "ja" : "",
+    "en" : "",
+    "zh" : "搜索 blackmatrix7\/ios_rule_script 仓库中的代理规则",
+    "pt" : "",
+    "fr" : "",
+    "es" : "",
+    "de" : ""
+  },
+  "permissions" : null,
+  "icon" : "magnifyingglass",
+  "runInApp" : true,
+  "entry" : "index.tsx",
+  "iconImage" : "",
+  "remoteResource" : null,
+  "color" : "rgba(10, 132, 255, 1)"
 }
