@@ -32,6 +32,9 @@
   "runInApp" : true,
   "entry" : "index.tsx",
   "iconImage" : "",
-  "remoteResource" : null,
+  "remoteResource" : {
+    "url" : "https://github.com/psikent/scripting-find-rule/archive/refs/heads/master.zip",
+    "autoUpdateInterval" : 86400
+  },
   "color" : "rgba(10, 132, 255, 1)"
 }
