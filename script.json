@@ -1,0 +1,13 @@
+{
+  "name": "规则搜索",
+  "icon": "magnifyingglass",
+  "color": "rgba(10, 132, 255, 1)",
+  "version": "1.0.0",
+  "runInApp": true,
+  "localizedNames": {
+    "zh": "规则搜索"
+  },
+  "localizedDescriptions": {
+    "zh": "搜索 blackmatrix7/ios_rule_script 仓库中的代理规则"
+  }
+}
