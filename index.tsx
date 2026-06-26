@@ -10,7 +10,6 @@ import {
   Button,
   Text,
   HStack,
-  VStack,
   Spacer,
   ProgressView,
   fetch,
